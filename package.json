@@ -12,7 +12,6 @@
   "author": "Atef Ben Ali <atef.bettaib@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "crawler": "^1.2.0",
     "ip": "^1.1.5"
   }
 }
